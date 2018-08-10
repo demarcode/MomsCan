@@ -74,7 +74,7 @@ p {
 }
 
 .jumbotron {
-    background-image: url(img/conference.jpg);
+    background-image: url(conference.jpg);
     height: 66vh;
     width: 100vw;
     margin-top: 80px;
@@ -100,14 +100,14 @@ p {
     color: black;
 }
 .info-left {
-    background-image: url(img/woman.jpg);
+    background-image: url(woman.jpg);
     background-position: center;
     background-size: cover;
    
 }
 
 .info-right {
-    background-image: url(img/friends.jpg);
+    background-image: url(friends.jpg);
     background-position: center;
     background-size: cover;
    
@@ -137,7 +137,7 @@ p {
     max-height: 30vh;
 }
 .img1 {
-    background-image: url(img/example1.jpg);
+    background-image: url(example1.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
@@ -150,35 +150,35 @@ p {
 }
 
 .img2 {
-    background-image: url(img/example2.jpg);
+    background-image: url(example2.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
     max-height: 30vh;
 }
 .img3 {
-    background-image: url(img/example3.jpg);
+    background-image: url(example3.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
     max-height: 30vh;
 }
 .img4 {
-    background-image: url(img/example4.jpg);
+    background-image: url(example4.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
     max-height: 30vh;
 }
 .img5 {
-    background-image: url(img/example5.jpg);
+    background-image: url(example5.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
     max-height: 30vh;
 }
 .img6 {
-    background-image: url(img/example1.jpg);
+    background-image: url(example1.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
@@ -191,7 +191,7 @@ p {
 .fourth {
     margin: 0;
     padding: 0;
-    background-image: url(img/sparkle.jpg);
+    background-image: url(sparkle.jpg);
     background-position: center;
     background-size: cover;
     min-height: 66vh;
@@ -201,7 +201,7 @@ p {
 }
 
 .fifth {
-    background-image: url(img/register.jpg);
+    background-image: url(register.jpg);
     background-position: center;
     background-size: cover;
     min-height: 66vh;
