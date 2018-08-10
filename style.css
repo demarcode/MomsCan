@@ -99,6 +99,9 @@ p {
 .headline {
   font-size: 4em;
 }
+h3, h4, h5 {
+    font-family: 'Merriweather Sans', sans-serif;
+}
 .dark {
     color: black;
 }
