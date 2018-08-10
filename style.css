@@ -96,6 +96,9 @@ p {
     font-family: 'Merriweather Sans', sans-serif;
    
 }
+.headline {
+  font-size: 4em;
+}
 .dark {
     color: black;
 }
