@@ -84,7 +84,7 @@ p {
     opacity: 0.7;
 }
 .main {
-    margin: 60px 0;
+    align-content: center;
     background-color: palevioletred;
     border: 1px solid black;
     border-radius: 5px;
