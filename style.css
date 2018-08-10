@@ -216,9 +216,8 @@ p {
     letter-spacing: 2px;
 }
 .import {
-    font-style: italic;
+    font-style: 'Pacifico', cursive;
     font-size: 4em;
-    font-weight: 800;
     color: #563967;
     letter-spacing: 2px;
 }
