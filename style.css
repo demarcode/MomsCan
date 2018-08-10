@@ -12,6 +12,8 @@
        url('../fonts/dosis-v7-latin-regular.svg#Dosis') format('svg'); /* Legacy iOS */
 }
 
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
 html, body {
     font-family: 'Dosis';
     margin: 0;
@@ -42,6 +44,7 @@ p {
 }
 .navbar a{
     color: darkslategrey!important;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 1.4em;
     font-weight: 800;
     margin-left: 1.5em;
@@ -49,6 +52,7 @@ p {
 }
 .navbar a:hover{
     color: pink !important;
+    font-family: 'Merriweather Sans', sans-serif;
     font-size: 1.4em;
     font-weight: 800;
     margin-left: 1.5em;
@@ -70,7 +74,7 @@ p {
 }
 
 .jumbotron {
-    background-image: url(conference.jpg);
+    background-image: url(img/conference.jpg);
     height: 66vh;
     width: 100vw;
     margin-top: 80px;
@@ -89,20 +93,21 @@ p {
 }
 .main h1, h2, p {
     color: #fff;
+    font-family: 'Merriweather Sans', sans-serif;
    
 }
 .dark {
     color: black;
 }
 .info-left {
-    background-image: url(woman.jpg);
+    background-image: url(img/woman.jpg);
     background-position: center;
     background-size: cover;
    
 }
 
 .info-right {
-    background-image: url(friends.jpg);
+    background-image: url(img/friends.jpg);
     background-position: center;
     background-size: cover;
    
@@ -110,11 +115,13 @@ p {
 
 .second p {
     color: black;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 .top {
     margin-top: 1em;
 }
 .third h2, {
+    font-family: 'Merriweather Sans', sans-serif;
     margin-top: 4em;
 }
 .low {
@@ -130,7 +137,7 @@ p {
     max-height: 30vh;
 }
 .img1 {
-    background-image: url(example1.jpg);
+    background-image: url(img/example1.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
@@ -143,35 +150,35 @@ p {
 }
 
 .img2 {
-    background-image: url(example2.jpg);
+    background-image: url(img/example2.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
     max-height: 30vh;
 }
 .img3 {
-    background-image: url(example3.jpg);
+    background-image: url(img/example3.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
     max-height: 30vh;
 }
 .img4 {
-    background-image: url(example4.jpg);
+    background-image: url(img/example4.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
     max-height: 30vh;
 }
 .img5 {
-    background-image: url(example5.jpg);
+    background-image: url(img/example5.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
     max-height: 30vh;
 }
 .img6 {
-    background-image: url(example1.jpg);
+    background-image: url(img/example1.jpg);
     background-position: center;
     background-size: cover;
     min-height: 25vh;
@@ -184,7 +191,7 @@ p {
 .fourth {
     margin: 0;
     padding: 0;
-    background-image: url(sparkle.jpg);
+    background-image: url(img/sparkle.jpg);
     background-position: center;
     background-size: cover;
     min-height: 66vh;
@@ -194,7 +201,7 @@ p {
 }
 
 .fifth {
-    background-image: url(register.jpg);
+    background-image: url(img/register.jpg);
     background-position: center;
     background-size: cover;
     min-height: 66vh;
@@ -202,15 +209,17 @@ p {
 }
 .fifth h1 {
     color: #fff;
+    font-family: 'Merriweather Sans', sans-serif;
     text-shadow: 1px 1px grey;
     opacity: 1;
     font-size: 4em;
     letter-spacing: 5px;
     padding-top: 2.5em;
 }
-
+    
 .fifth h2{
     color: #fff;
+    font-family: 'Merriweather Sans', sans-serif;
     text-shadow: 1px 1px grey;
     font-size: 2.4em;
     letter-spacing: 2px;
@@ -219,6 +228,7 @@ p {
     font-family: 'Pacifico', cursive;
     font-style: italic;
     font-size: 4em;
+
     color: #563967;
     letter-spacing: 2px;
 }
@@ -231,7 +241,8 @@ footer {
 }
 .con {
     color: rgb(74,56,87);
-    font-weight: 900;
+    font-weight: 800;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 .con a{
     color: rgb(74,56,87);
