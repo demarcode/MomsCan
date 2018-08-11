@@ -169,7 +169,7 @@ h3, h4, h5 {
     padding: 0;
 }
 .gal {
-    max-height: 30vh;
+    max-height: 25vh;
 }
 .working {
     background-image: url(working.jpg);
