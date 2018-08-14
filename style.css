@@ -169,7 +169,7 @@ h3, h4, h5 {
     padding: 0;
 }
 .gal {
-    max-height: 25vh;
+    max-height: 30vh;
 }
 .working {
     background-image: url(working.jpg);
@@ -225,6 +225,13 @@ h3, h4, h5 {
     font-size: 4em;
     color: #563967;
     letter-spacing: 2px;
+}
+.highlight {
+    color: #563967;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-style: italic;
+    font-size: 1em;
+    font-weight: 300;
 }
 
 .italic {
