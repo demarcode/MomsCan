@@ -255,3 +255,7 @@ footer {
 .big {
     font-size: 1.5em;
 }
+.btn-outline-secondary {
+    max-width: 50vw;
+    white-space: normal;
+}
